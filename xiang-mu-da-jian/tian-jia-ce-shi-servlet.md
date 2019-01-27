@@ -55,5 +55,28 @@ public class MavenServlet extends javax.servlet.http.HttpServlet {
 
 ## 使用Maven的机制添加Jar包
 
+### 配置pom.xml文件
+
+添加代码
+
+```
+<!-- 添加Servlet -->
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <version>2.5</version>
+      <scope>provided</scope>
+    </dependency>
+```
+
+然后，去这里解决问题：
+
+![](/assets/屏幕快照 2019-01-27 下午3.24.15.png)
+
+或者，如果没有解决问题，会出现这样的一个对话框
+
+![](/assets/屏幕快照 2019-01-27 下午3.25.13.png)
+
+点击“”即可完成对jar包的添加。
 
 
