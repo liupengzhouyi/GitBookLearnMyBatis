@@ -83,4 +83,14 @@ public class MavenServlet extends javax.servlet.http.HttpServlet {
 
 ![](/assets/屏幕快照 2019-01-27 下午3.25.32.png)
 
+## 配置Tomcat
 
+### 效果
+
+![](/assets/屏幕快照 2019-01-27 下午3.56.55.png)
+
+## 运行
+
+### 效果
+
+![](/assets/屏幕快照 2019-01-27 下午3.56.47.png)
