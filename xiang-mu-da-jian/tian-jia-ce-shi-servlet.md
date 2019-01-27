@@ -77,6 +77,10 @@ public class MavenServlet extends javax.servlet.http.HttpServlet {
 
 ![](/assets/屏幕快照 2019-01-27 下午3.25.13.png)
 
-点击“”即可完成对jar包的添加。
+点击“Improt Changes”即可完成对jar包的添加。
+
+最后的效果：
+
+![](/assets/屏幕快照 2019-01-27 下午3.25.32.png)
 
 
