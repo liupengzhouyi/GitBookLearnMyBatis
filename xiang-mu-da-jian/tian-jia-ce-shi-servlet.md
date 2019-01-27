@@ -17,7 +17,7 @@
 ### 代码如下：
 
 
-```Java
+``` Java
 package cn.liupengstudy;
 
 import java.io.IOException;
@@ -38,7 +38,7 @@ public class MavenServlet extends javax.servlet.http.HttpServlet {
 
 
 
-```xml
+``` xml
 <servlet>
     <servlet-name>MavenServlet</servlet-name>
     <servlet-class>cn.liupengstudy.MavenServlet</servlet-class>
